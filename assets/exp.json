@@ -6,9 +6,11 @@
             "Company":"Infosys",
             "Time":"Jan 2022 - Till now",
             "work":[
-                "TBD"
+                "Working as a backend developer with responsibilities including maintenance of a scalable distributed system",
+                "Development and maintenance of a distributed system based in the Akka Cluster",
+                "Creating Ansible AWX templates for restart and deployments of the cluster"
             ],
-            "Tech_Stack":"",
+            "Tech_Stack":"Java, Skala, Akka Cluster, AWS",
             "Recognition":""
         },
         {
